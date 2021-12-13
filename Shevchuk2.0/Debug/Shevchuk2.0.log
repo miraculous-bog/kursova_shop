@@ -1,0 +1,13 @@
+﻿  Customer.cpp
+C:\Users\Bohdan\source\repos\Shevchuk2.0\Shevchuk2.0\Human.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Distributor.cpp
+  Employee.cpp
+C:\Users\Bohdan\source\repos\Shevchuk2.0\Shevchuk2.0\Human.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Goods.cpp
+  Human.cpp
+C:\Users\Bohdan\source\repos\Shevchuk2.0\Shevchuk2.0\Human.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Shop.cpp
+C:\Users\Bohdan\source\repos\Shevchuk2.0\Shevchuk2.0\Human.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol _main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\Bohdan\source\repos\Shevchuk2.0\Debug\Shevchuk2.0.exe : fatal error LNK1120: 1 unresolved externals
